@@ -1,5 +1,5 @@
 # cambridge-theme-test
-Test of Theme as used by Cambridge university Press
+Test of Theme as used by Cambridge University Press for the development of [Cambridge Open Engage](https://www.cambridge.org/engage) and [APSA Preprints](https://preprints.apsanet.org/engage/apsa/public-dashboard)
 
 
 ## The Issue
