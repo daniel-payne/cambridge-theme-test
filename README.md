@@ -1,5 +1,5 @@
 # cambridge-theme-test
-Test of theme as used by Cambridge University Press for the development of a single nuxt server to deliver [Cambridge Open Engage](https://www.cambridge.org/engage) and [APSA Preprints](https://preprints.apsanet.org/engage/apsa/public-dashboard)
+Test of theme as used by Cambridge University Press for the development of a single nuxt server (https://www.cambridge.org/engage) to deliver [Cambridge Open Engage](https://www.cambridge.org/engage) and [APSA Preprints](https://www.cambridge.org/engage/apsa/public-dashboard) 
 
 
 ## The Issue
