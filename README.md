@@ -2,7 +2,7 @@
 Test of Theme as used by Cambridge university Press
 
 
-## The Iissue
+## The Issue
 
 We use vuetify in nuxt.config.js with our override of v-app 
 
@@ -14,9 +14,11 @@ This is because we load different theme files on each render based on business l
 
 This app was written with vuetify 1 and them manually upgraded to vuetify 2
 
+The problem starts between 2.1.8 (OK) and 2.1.9 (FAIL)
+
 
 ## To Test
-START with package.json IS USING "vuetify": "2.1.5" 
+START with package.json USING "vuetify": "2.1.5" 
 
 ```npm install```
 
@@ -24,11 +26,13 @@ START with package.json IS USING "vuetify": "2.1.5"
 
 THEN bar is red
 
-CHANGE package.json TO USE "vuetify": "2.1.6" 
+CHANGE package.json TO USE "vuetify": "2.1.9" 
 
 ```rm -r node_modules```
 
 ```rm -r .nuxt```
+
+```rm package-lock.json```
 
 ```npm install```
 
