@@ -28,6 +28,8 @@ CHANGE package.json TO USE "vuetify": "2.1.6"
 
 ```rm -r node_modules```
 
+```rm -r .nuxt```
+
 ```npm install```
 
 ```npm run dev```
@@ -61,4 +63,4 @@ export default (context, inject) => {
   context.app.vuetify = vuetify
   context.$vuetify = vuetify.framework
 }
-'''
+```
